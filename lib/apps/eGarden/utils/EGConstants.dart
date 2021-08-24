@@ -1,0 +1,1 @@
+const EGMaxItemCount = 20;

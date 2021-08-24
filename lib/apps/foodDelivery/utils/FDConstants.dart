@@ -1,0 +1,1 @@
+const FDHeadingFontSize = 30;
