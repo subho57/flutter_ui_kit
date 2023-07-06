@@ -14,7 +14,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   nb_utils: ^4.0.6
   animations: 2.0.0
-  http: 0.13.0
+  http: 0.13.6
   flutter_vector_icons: 1.0.0
   cached_network_image: ^3.0.0-nullsafety
   flutter_svg: 0.21.0-nullsafety.0
